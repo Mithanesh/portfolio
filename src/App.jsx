@@ -64,14 +64,14 @@ export default function Portfolio() {
 
           <div className="flex gap-4 flex-wrap">
             <a
-              href="https://github.com"
+              href="https://github.com/Mithanesh"
               target="_blank"
               className="px-6 py-3 rounded-2xl bg-white text-black font-semibold hover:scale-105 transition"
             >
               GitHub
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/mithanesh/"
               target="_blank"
               className="px-6 py-3 rounded-2xl border border-gray-700 hover:bg-gray-900 transition"
             >
@@ -203,14 +203,14 @@ export default function Portfolio() {
 
           <div className="flex justify-center gap-4 flex-wrap">
             <a
-              href="mailto:yourmail@example.com"
+              href="mailto:mithanesh.vec@gmail.com"
               className="px-8 py-4 rounded-2xl bg-white text-black font-semibold hover:scale-105 transition"
             >
               Email Me
             </a>
 
             <a
-              href="https://github.com"
+              href="https://github.com/Mithanesh"
               target="_blank"
               className="px-8 py-4 rounded-2xl border border-gray-700 hover:bg-black transition"
             >
