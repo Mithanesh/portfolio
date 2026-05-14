@@ -140,7 +140,7 @@ export default function Portfolio() {
             </div>
 
             <div className="bg-gray-900 p-6 rounded-3xl border border-gray-800">
-              <h3 className="text-4xl font-black mb-2">2026</h3>
+              <h3 className="text-4xl font-black mb-2">2027</h3>
               <p className="text-gray-400">Expected Graduation</p>
             </div>
           </div>
